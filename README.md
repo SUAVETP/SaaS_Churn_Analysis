@@ -5,13 +5,11 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![DAX](https://img.shields.io/badge/DAX-Formulas-orange)](https://dax.guide/)
 
-![Dashboard Screenshot](link-to-your-screenshot.png)
-
  Business Problem
 
 A fictional B2B SaaS company offering three subscription tiers (Basic, Pro, and Enterprise) was experiencing rising cancellations and revenue loss. Leadership identified a critical gap: they could see *that* customers were churning, but lacked visibility into *why* it was happening, *which* segments were most affected, and *who* was at risk next.
 
-Without this intelligence, the Customer Success and Growth teams were stuck in reactive mode—responding to cancellations after the fact rather than preventing them.
+Without this intelligence, the Customer Success and Growth teams were stuck in reactive mode responding to cancellations after the fact rather than preventing them.
 
 ## Solution
 

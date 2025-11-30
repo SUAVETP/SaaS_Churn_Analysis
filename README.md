@@ -1,4 +1,4 @@
-SaaS Churn Analysis Dashboard
+ SaaS Churn Analysis Dashboard
 
 > A Power BI dashboard that transforms churn data into actionable retention strategies for a B2B SaaS company
 
@@ -188,11 +188,7 @@ This dashboard framework can be adapted for:
 
 This project uses fictional data for demonstration purposes.
 
-
-
-\*\*Ayomide Ola-Gafar\*\*  
-
 Built as part of a SaaS-focused portfolio showcasing data analytics and business intelligence skills.
 
-
+Ayomide Ola-Gafar
 
